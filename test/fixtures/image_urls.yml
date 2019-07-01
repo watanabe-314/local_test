@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  subject: one
+  url: http:なんたら
+
+two:
+  subject:  one
+  url: https:なんたらなんたら

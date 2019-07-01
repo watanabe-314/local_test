@@ -1,0 +1,9 @@
+<h1>授業年度</h1>
+
+<ul>
+<% @years.each do |year| %>
+    <li><%= link_to year.year, {controller: :home, action: :showSubjectList, id: year.id} %></li>
+<% end %>
+</ul>
+
+<%= link_to 'add', { controller: :home, action: :new } %>

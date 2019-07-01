@@ -1,0 +1,16 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  year: first
+  subject_name: 電磁気Ⅰ
+  teacher_name: たかはし先生
+
+two:
+  year: first
+  subject_name: 電磁気Ⅹ
+  teacher_name: みつはし先生
+
+three:
+  year: first
+  subject_name: 電磁気M
+  teacher_name: さおとめ先生
